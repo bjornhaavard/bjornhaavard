@@ -1,4 +1,4 @@
-## Hello, my name is Bjørn Håvard Steinnes and I am a student of front end development.👋
+## Hello, my name is Bjørn Håvard Steinnes and I am a student in front end development at NOROFF👋
 
 <!--
 **bjornhaavard/bjornhaavard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
