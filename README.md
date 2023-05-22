@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Bjørn Håvard Steinnes and I am a student of front end development.👋
 
 <!--
 **bjornhaavard/bjornhaavard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm currently working on my own portfolio page.
+
+## I am learning HTML, CSS and JavaScript at the moment.
