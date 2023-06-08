@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - HTML 
 - CSS 
 - JavaScript 
+- Wordpress
 
 ### at the moment.
