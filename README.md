@@ -30,11 +30,15 @@ Here are some ideas to get you started:
 
 :nerd_face: [Portfolio page](https://precious-cannoli-adc0f8.netlify.app/index.html)
 
+:octocat: [Github](https://github.com/bjornhaavard/Portfolio)
+
 ![244934296-365d33d7-cf24-4cf9-8e49-36d6517fb0e4](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/9be07266-e952-4fca-b532-fceda84705dd)
 
 --------------------------------------------------------
 
 :slightly_smiling_face: [My blog](https://magnificent-axolotl-a473b6.netlify.app/index.html)
+
+:octocat: [Github](https://github.com/Noroff-FEU-Assignments/project-exam-1-bjornhaavard/tree/main)
 
 ![2023-05-29 18_06_46-PewPewLife _ Home](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/ca4f7ba4-dab3-42e6-a6fd-2572c1c41573)
 
@@ -42,11 +46,15 @@ Here are some ideas to get you started:
 
 :national_park: [RainyDays](https://kind-wilson-46a5f7.netlify.app/)
 
+:octocat: [Github](https://github.com/Noroff-FEU-Assignments/cross-course-project-bjornhaavard)
+
 ![2023-05-29 18_05_39-RainyDays _ Home](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/90bb4978-0530-438e-b581-3b62ba4694ba)
 
 --------------------------------------------------------
 
 :robot: [Community science musesum](https://snazzy-conkies-f91116.netlify.app/)
+
+:octocat: [Github](https://github.com/bjornhaavard/Community_science-museum)
 
 ![museum](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/4f457c3e-f93f-43cb-99e9-da12a545e9ad)
 
