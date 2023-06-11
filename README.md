@@ -54,5 +54,8 @@ Here are some ideas to get you started:
 
 ###  📫 How to reach me:
 
-- Email: bjornhaavard@hotmail.com
-- linkedin: https://www.linkedin.com/in/bj%C3%B8rn-h%C3%A5vard-steinnes-87333b21a/
+[Email](bjornhaavard@hotmail.com)
+
+[My Instagram page](https://www.instagram.com/bjornhaavardsteinnes/)
+
+[My LinkedIn page](https://www.linkedin.com/in/bj%C3%B8rn-h%C3%A5vard-steinnes-87333b21a/)
