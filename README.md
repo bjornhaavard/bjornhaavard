@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - CSS 
 - JavaScript 
 - Wordpress
+- CSS frameworks
+- JS frameworks
+- React
+- Next
 
 ### at the moment.
 
