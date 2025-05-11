@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------
 
-:slightly_smiling_face: [My blog](https://magnificent-axolotl-a473b6.netlify.app/index.html)
+:slightly_smiling_face: [BuyAll site](https://magnificent-axolotl-a473b6.netlify.app/index.html)
 
-:octocat: [Github](https://github.com/Noroff-FEU-Assignments/project-exam-1-bjornhaavard/tree/main)
+:octocat: [Github](https://github.com/bjornhaavard/JS-framework-CA)
 
-![2023-05-29 18_06_46-PewPewLife _ Home](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/ca4f7ba4-dab3-42e6-a6fd-2572c1c41573)
+![2023-05-29 18_06_46-PewPewLife _ Home](https://private-user-images.githubusercontent.com/94046432/442502297-96b76965-cf6a-4b2d-b65f-872b64b1bf6f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY5NjYzMTIsIm5iZiI6MTc0Njk2NjAxMiwicGF0aCI6Ii85NDA0NjQzMi80NDI1MDIyOTctOTZiNzY5NjUtY2Y2YS00YjJkLWI2NWYtODcyYjY0YjFiZjZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTExVDEyMjAxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlMjViYWE0MzNmODc3ZDg1ODMyMjc2OGEyMjIwOGM0Mzk3MTZmNzhlNjU5ZmYyMWQyN2Y0NjFhYTlhYzU2ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.16_YtO_JofNP997vr6hYvIBtlCg3_06nu7JvNQv8NL4)
 
 --------------------------------------------------------
 
