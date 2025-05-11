@@ -26,7 +26,7 @@
 
 --------------------------------------------------------
 
-:slightly_smiling_face: [BuyAll site](https://buyall.netlify.app/)
+:heavy_dollar_sign: [BuyAll site](https://buyall.netlify.app/)
 
 :octocat: [Github](https://github.com/bjornhaavard/JS-framework-CA)
 
