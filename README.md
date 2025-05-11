@@ -45,7 +45,7 @@ I'm currently pursuing a career shift into tech, diving deep into frontend devel
 
 <details>
   <summary>📸 Holidaze Venue page</summary>
-  <img src="assets/Holidaze.png" alt="Holidaze Screenshot" />
+  <img src="assets/Holidayz.png" alt="Holidaze Screenshot" />
 </details>
 
 <details>
