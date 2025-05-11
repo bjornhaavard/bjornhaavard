@@ -1,6 +1,6 @@
 ## Hello, my name is Bjørn Håvard Steinnes and I am a student in front end development at NOROFF👋
 
-### I am a 42 year old who has worked my whole life in the logistics area, specifically warehouses and forklift driving. I want to expand my knowledge and change my course of work to computers. I have always been a computer guy, mostly used for gaming, but I also have a curiosity for how things work, and coding and programming has always been something I have been interested in, but never actually done. With this education under Noroff I hope to be able to change my path and find a different line og carrier and passion.
+I am a 42 year old who has worked my whole life in the logistics area, specifically warehouses and forklift driving. I want to expand my knowledge and change my course of work to computers. I have always been a computer guy, mostly used for gaming, but I also have a curiosity for how things work, and coding and programming has always been something I have been interested in, but never actually done. With this education under Noroff I hope to be able to change my path and find a different line of career and passion.
 
 ### I'm currently working on my Portfolio Page. 
 
