@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### These are some of my earlier projects.
 
-:nerd_face: [Portfolio page]((https://bjornhaavard.github.io/Portfolio-2/))
+:nerd_face: [Portfolio page](https://bjornhaavard.github.io/Portfolio-2/)
 
 :octocat: [Github](https://github.com/bjornhaavard/Portfolio-2)
 
