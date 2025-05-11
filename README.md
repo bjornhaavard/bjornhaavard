@@ -47,6 +47,22 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------
 
+:slightly_smiling_face: [My blog](https://magnificent-axolotl-a473b6.netlify.app/index.html)
+
+:octocat: [Github](https://github.com/Noroff-FEU-Assignments/project-exam-1-bjornhaavard/tree/main)
+
+![2023-05-29 18_06_46-PewPewLife _ Home](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/ca4f7ba4-dab3-42e6-a6fd-2572c1c41573)
+
+--------------------------------------------------------
+
+:slightly_smiling_face: [My blog](https://magnificent-axolotl-a473b6.netlify.app/index.html)
+
+:octocat: [Github](https://github.com/Noroff-FEU-Assignments/project-exam-1-bjornhaavard/tree/main)
+
+![2023-05-29 18_06_46-PewPewLife _ Home](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/ca4f7ba4-dab3-42e6-a6fd-2572c1c41573)
+
+--------------------------------------------------------
+
 :national_park: [RainyDays](https://kind-wilson-46a5f7.netlify.app/)
 
 :octocat: [Github](https://github.com/Noroff-FEU-Assignments/cross-course-project-bjornhaavard)
