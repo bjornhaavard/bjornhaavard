@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm currently working on my own portfolio page. 
+### I'm currently working on my Portfolio Page. 
 
 ### I am learning: 
 
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - React
 - Next
 
-### at the moment.
 
 ### These are some of my earlier projects.
 
