@@ -16,7 +16,7 @@
 - Next
 
 
-### These are some of my earlier projects.
+### Projects.
 
 :nerd_face: [Portfolio page](https://bjornhaavard.github.io/Portfolio-2/)
 
