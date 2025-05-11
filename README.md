@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### These are some of my earlier projects.
 
-:nerd_face: [Portfolio page](https://precious-cannoli-adc0f8.netlify.app/index.html)
+:nerd_face: [Portfolio page]((https://bjornhaavard.github.io/Portfolio-2/))
 
-:octocat: [Github](https://github.com/bjornhaavard/Portfolio)
+:octocat: [Github](https://github.com/bjornhaavard/Portfolio-2)
 
-![244934296-365d33d7-cf24-4cf9-8e49-36d6517fb0e4](https://github.com/bjornhaavard/bjornhaavard/assets/94046432/9be07266-e952-4fca-b532-fceda84705dd)
+![244934296-365d33d7-cf24-4cf9-8e49-36d6517fb0e4](https://private-user-images.githubusercontent.com/94046432/442501071-b6b0e421-6d8c-4c7f-9899-4f7ba3bd25c3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY5NjUzMTUsIm5iZiI6MTc0Njk2NTAxNSwicGF0aCI6Ii85NDA0NjQzMi80NDI1MDEwNzEtYjZiMGU0MjEtNmQ4Yy00YzdmLTk4OTktNGY3YmEzYmQyNWMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTExVDEyMDMzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlMzhjMWE3YzJjNjU1ZWY3Mjg0ZjRiOTNlNGM2NjI1ZTI4ZDMxNWMyNTA2MjM3ZDhjZDYxMjc4NzkwZGE0YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YAL3RKHtv6DV8Lan_-ktx0U02RkIAWEiIJjtpzvrPJw)
 
 --------------------------------------------------------
 
