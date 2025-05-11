@@ -2,18 +2,19 @@
 
 I am a 42 year old who has worked my whole life in the logistics area, specifically warehouses and forklift driving. I want to expand my knowledge and change my course of work to computers. I have always been a computer guy, mostly used for gaming, but I also have a curiosity for how things work, and coding and programming has always been something I have been interested in, but never actually done. With this education under Noroff I hope to be able to change my path and find a different line of career and passion.
 
-### I'm currently working on my Portfolio Page. 
+### I'm currently working on my Portfolio Page.  
 
-### I am learning: 
+## 🛠️ Skills
 
-- HTML 
-- CSS 
-- JavaScript 
-- Wordpress
-- CSS frameworks
-- JS frameworks
-- React
-- Next
+- 🌐 HTML  
+- 🎨 CSS  
+- 🧠 JavaScript  
+- 🖥️ WordPress  
+- 🧱 CSS Frameworks (e.g., Tailwind, Bootstrap)  
+- ⚙️ JavaScript Frameworks (e.g., React, Vue)  
+- ⚛️ React  
+- 🔼 Next.js  
+
 
 
 ### Projects.
