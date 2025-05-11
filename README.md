@@ -27,6 +27,7 @@ I'm currently pursuing a career shift into tech, diving deep into frontend devel
 | Project                      | Description                                                     | Live                                                                 | GitHub                                                                                 |
 | ---------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Portfolio Page**           | My personal developer portfolio showcasing projects and skills  | [🔗 View](https://bjornhaavard.github.io/Portfolio-2/)               | [📂 Repo](https://github.com/bjornhaavard/Portfolio-2)                                 |
+| **HoliDaze**                 | Holidaze Venue app for booking and creating venues to visit     | [🔗 View](https://holidais.netlify.app/)                             | [📂 Repo](https://github.com/bjornhaavard/project-exam-2)                              |
 | **BuyAll**                   | E-commerce site built with Next.js and Noroff's online shop API | [🔗 View](https://buyall.netlify.app/)                               | [📂 Repo](https://github.com/bjornhaavard/JS-framework-CA)                             |
 | **BidHub**                   | Auction platform with product bidding and timer logic           | [🔗 View](https://magnificent-axolotl-a473b6.netlify.app/index.html) | [📂 Repo](https://github.com/bjornhaavard/BidHub)                                      |
 | **My Blog**                  | A blogging platform built as part of a semester project         | [🔗 View](https://magnificent-axolotl-a473b6.netlify.app/index.html) | [📂 Repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-bjornhaavard)       |
@@ -40,6 +41,11 @@ I'm currently pursuing a career shift into tech, diving deep into frontend devel
 <details>
   <summary>📸 Portfolio Page</summary>
   <img src="assets/Portfolio-screen.png" alt="Portfolio Screenshot" />
+</details>
+
+<details>
+  <summary>📸 Holidaze Venue page</summary>
+  <img src="assets/Holidaze.png" alt="Holidaze Screenshot" />
 </details>
 
 <details>
