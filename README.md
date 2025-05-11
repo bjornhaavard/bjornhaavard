@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------
 
-:slightly_smiling_face: [BuyAll site]([https://magnificent-axolotl-a473b6.netlify.app/index.html](https://bjornhaavard.github.io/BidHub/))
+:slightly_smiling_face: [BuyAll site](https://buyall.netlify.app/)
 
 :octocat: [Github](https://github.com/bjornhaavard/JS-framework-CA)
 
