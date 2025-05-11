@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 :octocat: [Github](https://github.com/bjornhaavard/BidHub)
 
-![BidHub auction site](https://github.com/bjornhaavard/bjornhaavard/issues/1#issuecomment-2869823504)
+![BidHub auction site](https://private-user-images.githubusercontent.com/94046432/442502526-81383d6d-c7dc-4494-9740-006ee1dcbee9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY5NjcwODEsIm5iZiI6MTc0Njk2Njc4MSwicGF0aCI6Ii85NDA0NjQzMi80NDI1MDI1MjYtODEzODNkNmQtYzdkYy00NDk0LTk3NDAtMDA2ZWUxZGNiZWU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTExVDEyMzMwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDRlNzY0YjA1ZDU5YTM5ZTkxMDgxNzI5ZDA1NGI1MDVhODc0ZDZjZmFiZmU5OWI2MzY3MjE0NGJjZWYwNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.STbRlkxL32n5-8tnsXsyIJ96F94pFYhP56sgk8EpwiQ)
 
 --------------------------------------------------------
 
